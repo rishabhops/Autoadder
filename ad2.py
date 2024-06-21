@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.INFO)
 # Define your API credentials
 api_id = 10248430
 api_hash = '42396a6ff14a569b9d59931643897d0d'
-phone_number = '923551822985'
+phone_number = '37120589715'
 session_name = f"sessions/{phone_number}"
 
 # Initialize the Telegram client
